@@ -1,0 +1,63 @@
+-- Automatically generated - do not edit.
+
+Config = Config or {} 
+Config.DataSystemOpen = Config.DataSystemOpen or {}
+
+
+local DataSystemOpen = Config.DataSystemOpen
+DataSystemOpen.data_system_open_length = 52
+DataSystemOpen.data_system_open = {
+	[101] = {id = 101, name = "角色", condition = 210101, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[102] = {id = 102, name = "角色升级", condition = 210102, is_notice = true, notice_priority = 997, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Role_1.png", notice_desc1 = "消耗残念和金币，提升角色等级，获得属性", notice_desc2 = "吸收残念就可以强化自身，真是太简单了。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Role_2.png"},
+	[103] = {id = 103, name = "角色技能", condition = 210103, is_notice = false, notice_priority = 994, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Role_1.png", notice_desc1 = "消耗技能纹章和金币，提升技能等级，增强技能效果", notice_desc2 = "对于你来说，升级技能其实是回忆的一部分，尽快记起自己拯救世界的使命吧。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Role_2.png"},
+	[104] = {id = 104, name = "角色脉象", condition = 210104, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Role_2.png"},
+	[105] = {id = 105, name = "角色月灵", condition = 210105, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[201] = {id = 201, name = "武器升级", condition = 210201, is_notice = true, notice_priority = 998, notice_icon = "Textures/Icon/Single/FuncIcon/TabSelect_Role_2.png", notice_desc1 = "使用矿石，强化武器等级，获得属性加成", notice_desc2 = "就由我来教你怎么打造一把绝世神兵吧。——啰嗦的某只", notice_icon2 = ""},
+	[202] = {id = 202, name = "武器精炼", condition = 210202, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[301] = {id = 301, name = "月灵", condition = 210301, is_notice = false, notice_priority = 996, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Partner_1.png", notice_desc1 = "佩戴捕获的月灵，可召唤其协助战斗和探索", notice_desc2 = "意志与欲望的冲突体，那就是所谓的月灵。——啰嗦的某只", notice_icon2 = ""},
+	[302] = {id = 302, name = "月灵升级", condition = 210302, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[303] = {id = 303, name = "月灵合成", condition = 210303, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[304] = {id = 304, name = "月灵资质培养", condition = 210304, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[305] = {id = 305, name = "月灵工作", condition = 210305, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[401] = {id = 401, name = "编队", condition = 210401, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[501] = {id = 501, name = "背包", condition = 210501, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[601] = {id = 601, name = "地图", condition = 210601, is_notice = true, notice_priority = 994, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Map_1.png", notice_desc1 = "地图中可查看各类世界上的信息，进行追踪和传送", notice_desc2 = "探索未知世界，发现奇妙之旅。", notice_icon2 = ""},
+	[701] = {id = 701, name = "任务", condition = 0, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[801] = {id = 801, name = "教学目录", condition = 210801, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[901] = {id = 901, name = "冒险", condition = 210901, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[902] = {id = 902, name = "世界等级", condition = 210902, is_notice = true, notice_priority = 993, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "突破探索等级，冒险中奖励将更加丰厚。相应的，敌人将更加强大", notice_desc2 = "这个世界会对青乌你的力量产生对抗心理，真是叛逆呢。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[903] = {id = 903, name = "噬脉猎手", condition = 210903, is_notice = true, notice_priority = 991, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "冒险旅途中，所有挫败悬天的行为，悬天都将发出密令，对青乌进行追猎。", notice_desc2 = "那什么，每天打败猎手会有对应的报酬，去剿灭恶势力吧，嘻嘻。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[904] = {id = 904, name = "每日活跃", condition = 210904, is_notice = true, notice_priority = 992, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "完成每日任务可以获得活跃度奖励，活跃度累计到一定值可以获得丰厚奖励", notice_desc2 = "为了拯救世界，每天我都会给你安排一些项目，闲的话就试试吧。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[905] = {id = 905, name = "资源收集", condition = 210905, is_notice = true, notice_priority = 990, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "可前往各个资源收集副本，消耗塑土，获得养成材料", notice_desc2 = "为了拯救世界，每天我都会给你安排一些项目，闲的话就试试吧。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[906] = {id = 906, name = "封侯密诏", condition = 210906, is_notice = true, notice_priority = 993, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_tianyuelingpai_1.png", notice_desc1 = "可探索天月城完成各种随机挑战获得奖励并激活脉符", notice_desc2 = "这个城市可没那么和平，人们需要英雄的出现。——啰嗦的某只", notice_icon2 = ""},
+	[907] = {id = 907, name = "梦魇终战", condition = 210907, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[908] = {id = 908, name = "城市经营", condition = 210908, is_notice = true, notice_priority = 990, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "可前往各个资源收集副本，消耗塑土，获得养成材料", notice_desc2 = "为了拯救世界，每天我都会给你安排一些项目，闲的话就试试吧。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[909] = {id = 909, name = "玩家天赋", condition = 210909, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1001] = {id = 1001, name = "活动", condition = 211001, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1002] = {id = 1002, name = "签到", condition = 211002, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1003] = {id = 1003, name = "新手任务", condition = 211003, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1101] = {id = 1101, name = "商城", condition = 211101, is_notice = true, notice_priority = 988, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Shop_1.png", notice_desc1 = "使用碎金等道具可在兑换商城中换取各类材料", notice_desc2 = "将积攒的碎金汇聚，变成新的助力。——啰嗦的某只", notice_icon2 = ""},
+	[1102] = {id = 1102, name = "充值", condition = 211102, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1103] = {id = 1103, name = "礼包商城", condition = 211103, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1104] = {id = 1104, name = "月卡", condition = 211104, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1105] = {id = 1105, name = "商城-兑换", condition = 211105, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1201] = {id = 1201, name = "抽取", condition = 211201, is_notice = true, notice_priority = 989, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Wish_1.png", notice_desc1 = "使用月之徽记，可获取各异的脉者和武器。", notice_desc2 = "抽取各异的脉者和武器——啰嗦的某只", notice_icon2 = ""},
+	[1301] = {id = 1301, name = "纪行", condition = 999, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1401] = {id = 1401, name = "设置", condition = 0, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1501] = {id = 1501, name = "邮件", condition = 212301, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1601] = {id = 1601, name = "公告", condition = 212301, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1701] = {id = 1701, name = "拍照", condition = 0, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1801] = {id = 1801, name = "好友", condition = 211801, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[1901] = {id = 1901, name = "图鉴", condition = 999, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2001] = {id = 2001, name = "成就", condition = 999, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2101] = {id = 2101, name = "羽鸢", condition = 212101, is_notice = true, notice_priority = 995, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Fly_1.png", notice_desc1 = "在空中点击跳跃按钮，将使用羽鸢进行滑翔", notice_desc2 = "从高处跳下去然后跳一下，就能展开羽鸢。——啰嗦的某只", notice_icon2 = ""},
+	[2201] = {id = 2201, name = "道格", condition = 212201, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2301] = {id = 2301, name = "通讯", condition = 212301, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2401] = {id = 2401, name = "能力轮盘", condition = 212401, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2501] = {id = 2501, name = "玩家信息页", condition = 212501, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2502] = {id = 2502, name = "玩家主菜单", condition = 212502, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2601] = {id = 2601, name = "天月资产", condition = 212601, is_notice = false, notice_priority = 990, notice_icon = "Textures/Icon/Single/FuncIcon/SysOpen_Adventure_1.png", notice_desc1 = "购买城市资产，经营资产获得奖励。", notice_desc2 = "成为老板，一步一步走上天月城巅峰。——啰嗦的某只", notice_icon2 = "Textures/Icon/Single/FuncIcon/Menu_Adventure_1.png"},
+	[2701] = {id = 2701, name = "昼夜系统", condition = 0, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+	[2801] = {id = 2801, name = "应用商店", condition = 212801, is_notice = false, notice_priority = 0, notice_icon = "", notice_desc1 = "", notice_desc2 = "", notice_icon2 = ""},
+}
+	

@@ -1,0 +1,2 @@
+CommonBehavior = BaseClass("CommonBehavior",EntityBehaviorBase)
+

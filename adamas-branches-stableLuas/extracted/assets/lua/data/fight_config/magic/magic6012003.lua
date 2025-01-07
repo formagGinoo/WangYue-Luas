@@ -1,0 +1,29 @@
+Config = Config or {}
+Config.Magic6012003 = Config.Magic6012003 or { }
+local empty = { }
+Config.Magic6012003.Magics = 
+{
+  [ 601200301 ] = {
+    MagicId = 601200301,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      DamageSkillType = 0,
+      ElementType = 1,
+      ElementAccumulate = 0,
+      SkillParam = 10000,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      AddSkillPoint = 0,
+      UseSelfAttr = false,
+      UseAttrType = 3,
+      DelayFrame = 0
+    }
+  }
+}
+
+
+
+Config.Magic6012003.Buffs = 
+{}

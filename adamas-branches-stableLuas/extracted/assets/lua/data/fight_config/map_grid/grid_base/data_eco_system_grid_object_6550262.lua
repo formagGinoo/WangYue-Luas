@@ -1,0 +1,190 @@
+Config = Config or {}
+Config.DataEcoSystemGridObject6550262 = Config.DataEcoSystemGridObject6550262 or {}
+
+local DataEcoSystemGridObject6550262 = Config.DataEcoSystemGridObject6550262
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64090113 = {
+	[2003002040273] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040273, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_15",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040274] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2050102, group = {}, id = 2003002040274, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "杀死怪物开启通用宝箱", param = {}, position = {"TYC00204","ecoPos2050102_4",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64010114 = {
+	[2003002040246] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040246, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_42",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040247] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040247, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_43",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040248] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040248, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_44",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64130115 = {
+	[2003002050027] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 580, entity_id = 2010104, group = {4003002050063,4,}, id = 2003002050027, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00205","baoxiang_8",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002050028] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2050102, group = {4003002050063,5,}, id = 2003002050028, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "杀死怪物开启通用宝箱", param = {}, position = {"TYC00205","bxGuanliqi_9",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64130119 = {
+	[2003001091031] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030412, group = {2003001091031,1,}, id = 2003001091031, jump_system_id = {100010,}, level_id = 200507003, load_radius = 100, map_id = 10020005, name = "月灵大师3", param = {{ duplicate = "200009",},}, position = {"TYC00109","yueling3001",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003001091032] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 8010003, group = {2003001091031,2,}, id = 2003001091032, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "", param = {}, position = {"TYC00109","yueling3002",}, position_id = 10020005, show_reward = true, state = 0,},
+	[2003001091033] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 890012001, group = {2003001091031,3,}, id = 2003001091033, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "", param = {}, position = {"TYC00109","yueling3003",}, position_id = 10020005, show_reward = true, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64080114 = {
+	[2003002040244] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040244, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_40",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64010119 = {
+	[2003002040081] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040081, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_3",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64090120 = {
+	[2003002040229] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040229, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_12",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64030121 = {
+	[2003002040095] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040095, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_11",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040096] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040096, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_31",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040097] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040097, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_32",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040098] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040098, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_33",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040099] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040099, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_41",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040100] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040100, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_42",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040101] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040101, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_43",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040102] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040102, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_44",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64150122 = {
+	[2003002050029] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 570, entity_id = 2010104, group = {4003002050061,3,}, id = 2003002050029, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00205","baoxiang_9",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002050030] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2050102, group = {4003002050061,4,}, id = 2003002050030, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "杀死怪物开启通用宝箱", param = {}, position = {"TYC00205","bxGuanliqi_10",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64050123 = {
+	[2003002040085] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 8012005, group = {}, id = 2003002040085, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos8012005_11",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64070114 = {
+	[2003002040243] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040243, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_39",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64030125 = {
+	[2003002040111] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040111, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_13",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040112] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040112, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_37",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040113] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040113, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_38",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040114] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040114, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_39",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040115] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040115, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_49",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040116] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040116, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_50",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040117] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040117, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_51",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040118] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040118, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_52",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040233] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 8012005, group = {}, id = 2003002040233, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos8012005_40",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64070126 = {
+	[2003002040235] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040235, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_22",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040236] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040236, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_64",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040237] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040237, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_65",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040238] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040238, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_66",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040239] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040239, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_85",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040240] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040240, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_86",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040241] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040241, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_87",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040242] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040242, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_88",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64030127 = {
+	[2003002040202] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040202, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_10",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64040112 = {
+	[2003002040120] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040120, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_6",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64080113 = {
+	[2003002040157] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040157, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_18",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040158] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040158, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_52",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040159] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040159, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_53",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040160] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040160, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_54",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040161] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040161, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_69",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040162] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040162, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_70",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040163] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040163, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_71",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040164] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040164, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_72",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64060114 = {
+	[2003002040245] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2010206, group = {}, id = 2003002040245, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "蘑菇1", param = {}, position = {"TYC00204","ecoPos2010206_41",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64070125 = {
+	[2003002040234] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 8012005, group = {}, id = 2003002040234, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos8012005_41",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64060116 = {
+	[2003001120033] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 580, entity_id = 2010104, group = {2003001120033,4,}, id = 2003001120033, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "", param = {}, position = {"ecoMon_Position","baoxiangZhan3_5",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003001120043] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2050102, group = {2003001120033,5,}, id = 2003001120043, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "", param = {}, position = {"ecoMon_Position","baoxiangzhan1_guanliqi_3",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64140117 = {
+	[2003002050038] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 570, entity_id = 2010104, group = {}, id = 2003002050038, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00205","putongBX_7",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64080118 = {
+	[2003002040103] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040103, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_12",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040104] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040104, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_34",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040105] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040105, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_35",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040106] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040106, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_36",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040107] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040107, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_45",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040108] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040108, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_46",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040109] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040109, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_47",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040110] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040110, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_48",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64020119 = {
+	[2003002040232] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 8012005, group = {}, id = 2003002040232, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos8012005_39",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64110122 = {
+	[2003002040184] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040184, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_20",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040185] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040185, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_58",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040186] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040186, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_59",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040187] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040187, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_60",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040188] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040188, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_77",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040189] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040189, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_78",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040190] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040190, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_79",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040191] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040191, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_80",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64000121 = {
+	[2003002040087] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040087, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_10",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040088] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040088, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_28",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040089] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040089, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_29",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040090] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040090, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_30",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040091] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040091, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_37",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040092] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040092, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_38",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040093] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040093, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_39",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040094] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040094, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_40",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64000122 = {
+	[2003002040082] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {}, id = 2003002040082, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_4",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64040123 = {
+	[2003002040086] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 20305118, group = {}, id = 2003002040086, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "篮子", param = {}, position = {"TYC00204","ecoPos20305118_3",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64000124 = {
+	[2003002040083] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 20305118, group = {}, id = 2003002040083, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "篮子", param = {}, position = {"TYC00204","ecoPos20305118_1",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64060125 = {
+	[2003002040176] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 80801200501, group = {}, id = 2003002040176, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "涅罗猫", param = {}, position = {"TYC00204","ecoPos80801200501_19",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040177] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040177, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_55",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040178] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040178, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_56",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040179] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030228, group = {}, id = 2003002040179, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物1-蓝盒", param = {}, position = {"TYC00204","ecoPos2030228_57",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040180] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040180, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_73",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040181] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040181, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_74",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040182] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040182, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_75",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040183] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2030229, group = {}, id = 2003002040183, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "破坏杂物2-单盒", param = {}, position = {"TYC00204","ecoPos2030229_76",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64100126 = {
+	[2003002040123] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 1004, entity_id = 2010104, group = {4003002040044,3,}, id = 2003002040123, jump_system_id = {}, level_id = 0, load_radius = 150, map_id = 10020005, name = "宝箱", param = {}, position = {"TYC00204","ecoPos2010104_8",}, position_id = 10020005, show_reward = false, state = 0,},
+	[2003002040124] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 2050102, group = {4003002040044,4,}, id = 2003002040124, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "杀死怪物开启通用宝箱", param = {}, position = {"TYC00204","ecoPos2050102_2",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+
+DataEcoSystemGridObject6550262.data_eco_system_grid_object_64020124 = {
+	[2003002040167] = { activity_time = {}, add_alert = 0, alert_tips = 0, default_create = true, drop_id = 0, entity_id = 20305118, group = {}, id = 2003002040167, jump_system_id = {}, level_id = 0, load_radius = 100, map_id = 10020005, name = "篮子", param = {}, position = {"TYC00204","ecoPos20305118_5",}, position_id = 10020005, show_reward = false, state = 0,},
+}
+

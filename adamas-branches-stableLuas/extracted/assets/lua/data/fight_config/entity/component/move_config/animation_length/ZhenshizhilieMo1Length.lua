@@ -1,0 +1,33 @@
+Config.ZhenshizhilieMo1Length = Config.ZhenshizhilieMo1Length or {}
+Config.ZhenshizhilieMo1Length = {
+   [0] = {
+      ["LeftSlightHit"] = 29,
+      ["LeftSlightHit"] = 29,
+      ["LeftSlightHit"] = 29,
+      ["LeftSlightHit"] = 29,
+      ["Alert"] = 42,
+      ["Attack001"] = 140,
+      ["Attack002"] = 78,
+      ["Attack003"] = 90,
+      ["Attack004"] = 90,
+      ["BackLeavyHit"] = 30,
+      ["BeAssassin"] = 60,
+      ["Death"] = 80,
+      ["HitDown"] = 33,
+      ["LeftHeavyHit"] = 44,
+      ["LeftSlightHit"] = 29,
+      ["Lie"] = 180,
+      ["RightHeavyHit"] = 44,
+      ["RightSlightHit"] = 29,
+      ["Run"] = 46,
+      ["Stand1"] = 45,
+      ["Stand2"] = 45,
+      ["StandUp"] = 51,
+      ["UIstand"] = 60,
+      ["Walk"] = 36,
+      ["WalkBack"] = 36,
+      ["WalkLeft"] = 36,
+      ["WalkRight"] = 36,
+    },
+
+}

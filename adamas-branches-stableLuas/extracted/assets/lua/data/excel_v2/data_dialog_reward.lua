@@ -1,0 +1,97 @@
+-- Automatically generated - do not edit.
+
+Config = Config or {}
+Config.DataDialogReward = Config.DataDialogReward or {}
+
+
+local DataDialogReward = Config.DataDialogReward
+DataDialogReward.FindLength = 77
+DataDialogReward.Find = {
+	[601010807] = {talk_id = 601010807, group_id = 6010108, conditions = 0, is_show = false, reward = 230101, refresh_type = 1},
+	[601010808] = {talk_id = 601010808, group_id = 6010108, conditions = 7011001, is_show = true, reward = 230201, refresh_type = 1},
+	[601010809] = {talk_id = 601010809, group_id = 6010108, conditions = 0, is_show = false, reward = 230301, refresh_type = 1},
+	[601011904] = {talk_id = 601011904, group_id = 6010119, conditions = 0, is_show = false, reward = 230201, refresh_type = 2},
+	[601011905] = {talk_id = 601011905, group_id = 6010119, conditions = 0, is_show = false, reward = 230101, refresh_type = 2},
+	[101100806] = {talk_id = 101100806, group_id = 1011008, conditions = 0, is_show = false, reward = 230101, refresh_type = 1},
+	[101100802] = {talk_id = 101100802, group_id = 1011008, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101100809] = {talk_id = 101100809, group_id = 1011008, conditions = 281011, is_show = false, reward = 230102, refresh_type = 1},
+	[101130511] = {talk_id = 101130511, group_id = 1011305, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101130513] = {talk_id = 101130513, group_id = 1011305, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101131309] = {talk_id = 101131309, group_id = 1011313, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101131313] = {talk_id = 101131313, group_id = 1011313, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101131805] = {talk_id = 101131805, group_id = 1011318, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101131807] = {talk_id = 101131807, group_id = 1011318, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101131806] = {talk_id = 101131806, group_id = 1011318, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101140607] = {talk_id = 101140607, group_id = 1011406, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101140609] = {talk_id = 101140609, group_id = 1011406, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101141303] = {talk_id = 101141303, group_id = 1011413, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101141308] = {talk_id = 101141308, group_id = 1011413, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101181619] = {talk_id = 101181619, group_id = 1011816, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101181621] = {talk_id = 101181621, group_id = 1011816, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101182217] = {talk_id = 101182217, group_id = 1011822, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101182218] = {talk_id = 101182218, group_id = 1011822, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101182224] = {talk_id = 101182224, group_id = 1011822, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101182226] = {talk_id = 101182226, group_id = 1011822, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101182230] = {talk_id = 101182230, group_id = 1011822, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101221202] = {talk_id = 101221202, group_id = 1012212, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101221209] = {talk_id = 101221209, group_id = 1012212, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101230213] = {talk_id = 101230213, group_id = 1012302, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101230214] = {talk_id = 101230214, group_id = 1012302, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101230215] = {talk_id = 101230215, group_id = 1012302, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101240904] = {talk_id = 101240904, group_id = 1012409, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101240906] = {talk_id = 101240906, group_id = 1012409, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202406] = {talk_id = 101202406, group_id = 1012024, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202409] = {talk_id = 101202409, group_id = 1012024, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202505] = {talk_id = 101202505, group_id = 1012025, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202509] = {talk_id = 101202509, group_id = 1012025, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202512] = {talk_id = 101202512, group_id = 1012025, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202607] = {talk_id = 101202607, group_id = 1012026, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101202609] = {talk_id = 101202609, group_id = 1012026, conditions = 281003, is_show = true, reward = 0, refresh_type = 1},
+	[101202614] = {talk_id = 101202614, group_id = 1012026, conditions = 281004, is_show = true, reward = 0, refresh_type = 1},
+	[101203005] = {talk_id = 101203005, group_id = 1012030, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203008] = {talk_id = 101203008, group_id = 1012030, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203013] = {talk_id = 101203013, group_id = 1012030, conditions = 281001, is_show = true, reward = 0, refresh_type = 1},
+	[101203311] = {talk_id = 101203311, group_id = 1012033, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203314] = {talk_id = 101203314, group_id = 1012033, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203807] = {talk_id = 101203807, group_id = 1012038, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203810] = {talk_id = 101203810, group_id = 1012038, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203206] = {talk_id = 101203206, group_id = 1012032, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203207] = {talk_id = 101203207, group_id = 1012032, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101203208] = {talk_id = 101203208, group_id = 1012032, conditions = 281002, is_show = true, reward = 0, refresh_type = 1},
+	[101203209] = {talk_id = 101203209, group_id = 1012032, conditions = 281005, is_show = true, reward = 0, refresh_type = 1},
+	[101204618] = {talk_id = 101204618, group_id = 1012046, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[101204619] = {talk_id = 101204619, group_id = 1012046, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[202110113] = {talk_id = 202110113, group_id = 2021101, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[202110115] = {talk_id = 202110115, group_id = 2021101, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102330702] = {talk_id = 102330702, group_id = 1023307, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102340608] = {talk_id = 102340608, group_id = 1023406, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102350213] = {talk_id = 102350213, group_id = 1023502, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102360303] = {talk_id = 102360303, group_id = 1023603, conditions = 0, is_show = false, reward = 230101, refresh_type = 1},
+	[102360313] = {talk_id = 102360313, group_id = 1023603, conditions = 0, is_show = false, reward = 230201, refresh_type = 1},
+	[102360319] = {talk_id = 102360319, group_id = 1023603, conditions = 0, is_show = false, reward = 230301, refresh_type = 1},
+	[102370804] = {talk_id = 102370804, group_id = 1023708, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102370904] = {talk_id = 102370904, group_id = 1023709, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102370404] = {talk_id = 102370404, group_id = 1023704, conditions = 0, is_show = false, reward = 230101, refresh_type = 1},
+	[102370407] = {talk_id = 102370407, group_id = 1023704, conditions = 0, is_show = false, reward = 230201, refresh_type = 1},
+	[102370411] = {talk_id = 102370411, group_id = 1023704, conditions = 0, is_show = false, reward = 230301, refresh_type = 1},
+	[102380202] = {talk_id = 102380202, group_id = 1023802, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102380208] = {talk_id = 102380208, group_id = 1023802, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102391307] = {talk_id = 102391307, group_id = 1023913, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102390213] = {talk_id = 102390213, group_id = 1023902, conditions = 0, is_show = false, reward = 230101, refresh_type = 1},
+	[102390217] = {talk_id = 102390217, group_id = 1023902, conditions = 0, is_show = false, reward = 230201, refresh_type = 1},
+	[102390220] = {talk_id = 102390220, group_id = 1023902, conditions = 0, is_show = false, reward = 230301, refresh_type = 1},
+	[102391709] = {talk_id = 102391709, group_id = 1023917, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102390906] = {talk_id = 102390906, group_id = 1023909, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102390911] = {talk_id = 102390911, group_id = 1023909, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+	[102390919] = {talk_id = 102390919, group_id = 1023909, conditions = 0, is_show = false, reward = 0, refresh_type = 1},
+}
+	
+local DataDialogReward = Config.DataDialogReward
+DataDialogReward.GetGroupIdByRefreshTypeLength = 2
+DataDialogReward.GetGroupIdByRefreshType = {
+	[1] = {6010108, 1011008, 1011305, 1011313, 1011318, 1011406, 1011413, 1011816, 1011822, 1012212, 1012302, 1012409, 1012024, 1012025, 1012026, 1012030, 1012033, 1012038, 1012032, 1012046, 2021101, 1023307, 1023406, 1023502, 1023603, 1023708, 1023709, 1023704, 1023802, 1023913, 1023902, 1023917, 1023909},
+	[2] = {6010119},
+}
+	
+
+return DataDialogReward

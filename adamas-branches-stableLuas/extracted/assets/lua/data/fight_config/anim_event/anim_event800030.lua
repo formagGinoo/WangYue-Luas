@@ -1,0 +1,95 @@
+Config = Config or {}
+Config.AnimEvent800030 = Config.AnimEvent800030 or { }
+Config.AnimEvent800030.AnimEvents = 
+{}
+Config.AnimEvent800030.AnimFusions = 
+{}
+Config.AnimEvent800030.AnimFrames = 
+{
+  Stand = 51,
+  Afraid = 81,
+  Beishou_end = 21,
+  Beishou_in = 21,
+  Beishou_loop = 51,
+  Bhit = 51,
+  Chayao_end = 21,
+  Chayao_in = 25,
+  Chayao_loop = 51,
+  Fhit = 51,
+  Fuxiong_end = 21,
+  Fuxiong_in = 21,
+  Fuxiong_loop = 51,
+  Jingxia_end = 23,
+  Jingxia_in = 23,
+  Jingxia_loop = 51,
+  Motou_end = 21,
+  Motou_in = 21,
+  Motou_loop = 51,
+  Run = 25,
+  Sbaoxiong_end = 25,
+  Sbaoxiong_in = 23,
+  Sbaoxiong_loop = 51,
+  Schayao_end = 25,
+  Schayao_in = 27,
+  Schayao_loop = 51,
+  Sit = 51,
+  Sit_end = 39,
+  Sit_in = 36,
+  Sitd_end = 60,
+  Sitd_in = 59,
+  Sitd_loop = 61,
+  SitL_end = 39,
+  SitL_in = 38,
+  SitR_end = 39,
+  SitR_in = 38,
+  Sleep_Lend = 79,
+  Sleep_Lin = 81,
+  Sleep_loop = 11,
+  Sleep_Rend = 79,
+  Sleep_Rin = 81,
+  Songjian_end = 26,
+  Songjian_in = 26,
+  Songjian_loop = 51,
+  Standback = 26,
+  Stanshou_end = 28,
+  Stanshou_in = 34,
+  Stanshou_loop = 51,
+  Tanshou_end = 34,
+  Tanshou_in = 34,
+  Tanshou_loop = 51,
+  Tuosai_end = 24,
+  Tuosai_in = 26,
+  Tuosai_loop = 51,
+  Tuoshou_end = 24,
+  Tuoshou_in = 22,
+  Tuoshou_loop = 51,
+  Walk = 41,
+  Yzhuanshen = 33,
+  Zzhuanshen = 33,
+  Jump = 233
+}
+Config.AnimEvent800030.LoopingAnim = 
+{
+  Stand = true,
+  Beishou_loop = true,
+  Chayao_loop = true,
+  Fuxiong_loop = true,
+  Jingxia_loop = true,
+  Motou_loop = true,
+  Run = true,
+  Sbaoxiong_loop = true,
+  Schayao_loop = true,
+  Sit = true,
+  Sitd_loop = true,
+  Sleep_loop = true,
+  Songjian_loop = true,
+  Stanshou_loop = true,
+  Tanshou_loop = true,
+  Tuosai_loop = true,
+  Tuoshou_loop = true,
+  Walk = true
+}
+Config.AnimEvent800030.State2AnimMap = 
+{
+  Stand1 = "Stand"
+}

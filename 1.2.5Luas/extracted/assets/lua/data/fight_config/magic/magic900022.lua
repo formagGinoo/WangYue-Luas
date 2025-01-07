@@ -1,0 +1,86 @@
+Config = Config or {}
+Config.Magic900022 = Config.Magic900022 or { }
+local empty = { }
+Config.Magic900022.Magics = 
+{
+  [ 900022001 ] = {
+    MagicId = 900022001,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      ElementType = 1,
+      ElementAccumulate = 0,
+      SkillParam = 12500,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      UseSelfAttr = true,
+      DelayFrame = 0
+    }
+  },
+  [ 900022002 ] = {
+    MagicId = 900022002,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      ElementType = 5,
+      ElementAccumulate = 0,
+      SkillParam = 4000,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      UseSelfAttr = true,
+      DelayFrame = 0
+    }
+  },
+  [ 900022003 ] = {
+    MagicId = 900022003,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      ElementType = 5,
+      ElementAccumulate = 0,
+      SkillParam = 2000,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      UseSelfAttr = true,
+      DelayFrame = 0
+    }
+  },
+  [ 900022004 ] = {
+    MagicId = 900022004,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      ElementType = 1,
+      ElementAccumulate = 0,
+      SkillParam = 16850,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      UseSelfAttr = true,
+      DelayFrame = 0
+    }
+  },
+  [ 900022005 ] = {
+    MagicId = 900022005,
+    Type = 2,
+    Param = {
+      DamageKind = 1,
+      DamageType = 1,
+      ElementType = 1,
+      ElementAccumulate = 0,
+      SkillParam = 17600,
+      SkillBaseDmg = 0,
+      MagicId = 0,
+      UseSelfAttr = true,
+      DelayFrame = 0
+    }
+  }
+}
+
+
+
+Config.Magic900022.Buffs = 
+{}
